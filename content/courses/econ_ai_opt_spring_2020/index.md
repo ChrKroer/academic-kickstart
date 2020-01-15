@@ -114,7 +114,7 @@ Additionally, we may use some sections of the following books. They are also rec
 
 ### Related Courses
 
-Below is a list of related courses at other schools. Some have a more applied focus, and some have a more theoretical focus.
+Below is a list of related courses at other schools. 
 
 | Professor | Title | Year | School |
 |-----------|-------|------|--------|

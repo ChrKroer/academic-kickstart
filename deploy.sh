@@ -1,2 +1,2 @@
 #!/bin/bash
-scp -r public columbia:~/public_html
+rsync -a public/ columbia:public_html
