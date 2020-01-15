@@ -1,7 +1,7 @@
 ---
 title: "Robust optimization of recommendation sets with the maximin utility criterion"
 date: 2013-01-01
-publishDate: 2019-11-08T02:34:58.929325Z
+publishDate: 2020-01-11T21:46:59.207845Z
 authors: ["Paolo Viappiani", "Christian Kroer"]
 publication_types: ["1"]
 abstract: ""

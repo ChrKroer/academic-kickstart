@@ -1,7 +1,7 @@
 ---
 title: "Feature filtering for instance-specific algorithm configuration"
 date: 2011-01-01
-publishDate: 2019-11-08T02:34:58.931610Z
+publishDate: 2020-01-11T21:46:59.209540Z
 authors: ["Christian Kroer", "Yuri Malitsky"]
 publication_types: ["1"]
 abstract: ""
