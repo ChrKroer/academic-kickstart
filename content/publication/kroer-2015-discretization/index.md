@@ -1,7 +1,7 @@
 ---
 title: "Discretization of Continuous Action Spaces in Extensive-Form Games"
 date: 2015-01-01
-publishDate: 2020-01-11T21:46:59.204701Z
+publishDate: 2020-01-18T23:50:20.393120Z
 authors: ["Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Sequential Planning for Steering Immune System Adaptation"
 date: 2016-01-01
-publishDate: 2020-01-11T21:46:59.202645Z
+publishDate: 2020-01-18T23:50:20.390374Z
 authors: ["Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

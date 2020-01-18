@@ -1,7 +1,7 @@
 ---
 title: "Regret Minimization in Behaviorally-Constrained Zero-Sum Games"
 date: 2017-01-01
-publishDate: 2020-01-11T21:46:59.198148Z
+publishDate: 2020-01-18T23:50:20.384558Z
 authors: ["Gabriele Farina", "Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

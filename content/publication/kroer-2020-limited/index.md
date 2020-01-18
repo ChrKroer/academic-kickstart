@@ -1,7 +1,7 @@
 ---
 title: "Limited Lookahead in Imperfect-Information Games"
 date: 2020-01-01
-publishDate: 2020-01-11T21:46:59.188810Z
+publishDate: 2020-01-18T23:50:20.372982Z
 authors: ["Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["2"]
 abstract: ""

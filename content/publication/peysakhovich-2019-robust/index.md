@@ -1,7 +1,7 @@
 ---
 title: "Robust Multi-agent Counterfactual Prediction"
 date: 2019-01-01
-publishDate: 2020-01-11T21:46:59.189315Z
+publishDate: 2020-01-18T23:50:20.373861Z
 authors: ["Alex Peysakhovich", "Christian Kroer", "Adam Lerer"]
 publication_types: ["1"]
 abstract: ""
