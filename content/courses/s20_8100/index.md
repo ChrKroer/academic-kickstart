@@ -69,7 +69,7 @@ We will also cover some subset of the following:
 
 The primary book is:
 
-* [ Algorithmic Game Theory (AGT) ](/files/algorithmic-game-theory.pdf)  by Nisan, Roughgarden, Tardos, and Vazirani (it's free)
+* [ Algorithmic Game Theory (AGT) ](http://www.columbia.edu/~ck2945/files/algorithmic-game-theory.pdf)  by Nisan, Roughgarden, Tardos, and Vazirani (it's free)
 
 Additionally, we may use some sections of the following books. They are also recommended for supplementary reading:
 
@@ -94,7 +94,7 @@ Additionally, we may use some sections of the following books. They are also rec
 | 12 | 3 / 2 | Introduction to mechanism design 2 | AGT Ch 2 | Kroer |
 | 13 | 3 / 4 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | Kroer |
 | 14 | 3 / 9 | Market equilibrium abstraction,  Internet ad auctions | | Kroer |
-| 15 | 3 / 11  | A-CEEI: Matching students to courses | [A-CEEI paper](/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](/papers/course_match.pdf) | Kroer |
+| 15 | 3 / 11  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | Kroer |
 | - | 3 / 16 | Spring break |  | | 
 | - | 3 / 18 | Spring break |  | | 
 | 16 | 3 / 23 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | Kroer |
@@ -127,3 +127,4 @@ Below is a list of related courses at other schools.
 | Milind Tambe | [ Security and Game Theory	 ](http://teamcore.usc.edu/Courses/ISE599/) | 2016 | USC |
 | Constantinos Daskalakis | [ Games, Decision, and Computation ](https://stellar.mit.edu/S/course/6/sp15/6.891/index.html) | 2015 | MIT |
 | Tuomas Sandholm | [ Foundations of Electronic Marketplaces	 ](http://www.cs.cmu.edu/~sandholm/cs15-892F15/cs15-892.htm) | 2015 | CMU |
+| Tim Roughgarden | [ Algorithmic Game Theory	 ](http://timroughgarden.org/f13/f13.html) | 2013 | Stanford |
