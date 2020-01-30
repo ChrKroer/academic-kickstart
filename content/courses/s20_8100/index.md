@@ -34,8 +34,24 @@ Economics, AI, and Optimization is an interdisciplinary course that will cover s
 
 * Make a poker AI
 * Fairly allocate course seats to students, food to food banks, etc
-* Protect wildlife, airports, or the power grid
+* Protect wildlife or airports
 * Conduct large-scale auctions for spectrum or Internet ads
+
+### Course Structure
+
+The course will be lecture-based, with Christian Kroer giving the lectures. At the end of the course there will be a few lectures of project presentations by students.
+
+Readings will consist of a mixture of textbooks and course notes, which will be uploaded after lectures.
+
+Students will complete a project, which may be done individually or in groups of 2-3 students. 
+
+Grading will be as follows:
+
+* 50% final project write-up
+* 20% homework (there will only be 1-2 homeworks)
+* 15% Final project presentation
+* 10% Participation
+* 5% Project proposal
 
 
 ### Outline
@@ -56,7 +72,7 @@ A rough outline is as follows:
   * Fisher markets and market equilibrium
   * Optimization methods for computing market equilibria
   * Machine learning methods for large markets
-  * fair division, course allocation, 
+  * fair division, course allocation 
   * Internet ad auctions
   * Spectrum auctions
 
@@ -76,40 +92,42 @@ Additionally, we may use some sections of the following books. They are also rec
 * [ Handbook of Computational Social Choice (HCSC) ](http://www.cambridge.org/download_file/898428) by Brandt, Conitzer, Endriss, Lang, & Procaccia (it's free, password: cam1CSC)
 * [ Multiagent Systems (MS) ](http://www.masfoundations.org/download.html) by Leyton-Brown & Shoham (it's free)
 * [Twenty Lectures on Algorithmic Game Theory (TLAGT)](https://www.cambridge.org/us/academic/subjects/computer-science/algorithmics-complexity-computer-algebra-and-computational-g/twenty-lectures-algorithmic-game-theory?format=PB) by Tim Roughgarden (the individual notes can be found on [Tim's website](http://timroughgarden.org/notes.html) under the course "Algorithmic Game Theory")
+* [ Introduction to Online Convex Optimization (Hazan) ](https://ocobook.cs.princeton.edu/OCObook.pdf) by Hazan (it's free)
+* [ A Modern Introduction to Onlinea Learning (Orabona) ](https://arxiv.org/pdf/1912.13213.pdf) by Orabona (it's free)
 
 ### Tentative schedule
-| #  | <div style="width:45px">Date</div> | Topic | Reading | Lecturer |
+| #  | <div style="width:45px">Date</div> | Topic | Reading | Lecture notes |
 |---|--------|----------|---|---|
-| 1 | 1 / 22 | Introduction | AGT Ch 1 | Kroer |
-| 2 | 1 / 27 | Introduction to game theory | AGT Ch 2 | Kroer |
-| 3 | 1 / 29 | Online convex optimization, minimax theorem | | Kroer |
-| 4 | 2 / 3 | Blackwell approachability, regret matching  | | Kroer |
-| 5 | 2 / 5 | Extensive-form games, sequence form LP | AGT Ch 3.7 - 3.11 | Kroer |
-| 6 | 2 / 10 | EFG regret decomposition, CFR+ | | Kroer |
-| 7 | 2 / 12 | Subgame solving, DeepStack | | Kroer |
-| 8 | 2 / 17 |  |  | Kroer |
-| 9 | 2 / 19 | Security games | | Kroer |
-| 10 | 2 / 24 | Green Security games | | Kroer |
-| 11 | 2 / 26 | Introduction to mechanism design | AGT Ch 2 | Kroer |
-| 12 | 3 / 2 | Introduction to mechanism design 2 | AGT Ch 2 | Kroer |
-| 13 | 3 / 4 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | Kroer |
-| 14 | 3 / 9 | Market equilibrium abstraction,  Internet ad auctions | | Kroer |
-| 15 | 3 / 11  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | Kroer |
+| 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_1.pdf) |
+| 2 | 1 / 27 | Introduction to game theory | AGT Ch 1, Hazan Ch 1 | [Lecture2.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_2.pdf)|
+| 3 | 1 / 29 | Online convex optimization, minimax theorem | Hazan Ch 1, Ch 5.0-5.4 | |
+| 4 | 2 / 3 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| |
+| 5 | 2 / 5 | Extensive-form games, sequence form LP | AGT Ch 3.7 - 3.11 | |
+| 6 | 2 / 10 | EFG regret decomposition, CFR+ | | |
+| 7 | 2 / 12 | Subgame solving, DeepStack | | |
+| 8 | 2 / 17 |  |  | |
+| 9 | 2 / 19 | Security games | | |
+| 10 | 2 / 24 | Green Security games | | |
+| 11 | 2 / 26 | Introduction to mechanism design | AGT Ch 9 & 10 | |
+| 12 | 3 / 2 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | |
+| 13 | 3 / 4 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | |
+| 14 | 3 / 9 | Market equilibrium abstraction,  Internet ad auctions | | |
+| 15 | 3 / 11  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | |
 | - | 3 / 16 | Spring break |  | | 
 | - | 3 / 18 | Spring break |  | | 
-| 16 | 3 / 23 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | Kroer |
-| 17 | 3 / 25 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | Kroer |
-| 18 | 3 / 30 |  | | Kroer |
-| 19 | 4 / 1 |  | | Kroer |
-| 20 | 4 / 6 |  | | Kroer |
-| 21 | 4 / 8 |  | | Kroer |
-| 22 | 4 / 13 |  | | Kroer |
-| 23 | 4 / 15 |  | | Kroer |
-| 24 | 4 / 20 |  | | Kroer |
-| 25 | 4 / 22 |  | | Kroer |
-| 26 | 4 / 27 |  | | Kroer |
-| 27 | 4 / 29 |  | | Kroer |
-| 28 | 5 / 4 |  | | Kroer |
+| 16 | 3 / 23 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | |
+| 17 | 3 / 25 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | |
+| 18 | 3 / 30 |  | | |
+| 19 | 4 / 1 |  | | |
+| 20 | 4 / 6 |  | | |
+| 21 | 4 / 8 |  | | |
+| 22 | 4 / 13 |  | | |
+| 23 | 4 / 15 |  | | |
+| 24 | 4 / 20 |  | | |
+| 25 | 4 / 22 |  | | |
+| 26 | 4 / 27 |  | | |
+| 27 | 4 / 29 |  | | |
+| 28 | 5 / 4 |  | | |
 
 
 ### Related Courses
