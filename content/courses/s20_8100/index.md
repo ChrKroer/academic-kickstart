@@ -101,23 +101,23 @@ Additionally, we may use some sections of the following books. They are also rec
 | 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_1.pdf) |
 | 2 | 1 / 27 | Introduction to game theory | AGT Ch 1, Hazan Ch 1 | [Lecture2.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_2.pdf)|
 | 3 | 1 / 29 | Hedge, Online convex optimization | Hazan Ch 1, Ch 5.0-5.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
-| 4 | 2 / 3 | Online Mirror Descent, minimax theorem | Orabona Ch. 6.0-6.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
-| 5 | 2 / 5 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| |
-| 6 | 2 / 10 | Extensive-form games, sequence form LP | AGT Ch 3.7 - 3.11 | |
-| 7 | 2 / 12 | EFG regret decomposition, CFR+ | | |
-| 8 | 2 / 17 | Subgame solving, DeepStack | | |
-| 9 | 2 / 19 | Security games | | |
-| 10 | 2 / 24 | Green Security games | | |
-| 11 | 2 / 26 | Introduction to mechanism design | AGT Ch 9 & 10 | |
-| 12 | 3 / 2 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | |
-| 13 | 3 / 4 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | |
-| 14 | 3 / 9 | Market equilibrium abstraction,  Internet ad auctions | | |
-| 15 | 3 / 11  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | |
-| - | 3 / 16 | Spring break |  | | 
+| 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
+| 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
+| 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| |
+| 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | |
+| 8 | 2 / 17 | EFG regret decomposition, CFR+ | | |
+| 9 | 2 / 19 | Subgame solving, DeepStack | | |
+| 10 | 2 / 24 | Security games | | |
+| 11 | 2 / 26 | Green Security games | | |
+| 12 | 3 / 2 | Introduction to mechanism design | AGT Ch 9 & 10 | |
+| 13 | 3 / 4 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | |
+| 14 | 3 / 9 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | |
+| 15 | 3 / 11 | Market equilibrium abstraction,  Internet ad auctions | | |
+| 16 | 3 / 16  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | |
 | - | 3 / 18 | Spring break |  | | 
-| 16 | 3 / 23 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | |
-| 17 | 3 / 25 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | |
-| 18 | 3 / 30 |  | | |
+| - | 3 / 23 | Spring break |  | | 
+| 17 | 3 / 25 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | |
+| 18 | 3 / 30 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | |
 | 19 | 4 / 1 |  | | |
 | 20 | 4 / 6 |  | | |
 | 21 | 4 / 8 |  | | |
