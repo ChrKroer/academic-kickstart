@@ -98,13 +98,13 @@ Additionally, we may use some sections of the following books. They are also rec
 ### Tentative schedule
 | #  | <div style="width:45px">Date</div> | Topic | Reading | Lecture notes |
 |---|--------|----------|---|---|
-| 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_1.pdf) |
-| 2 | 1 / 27 | Introduction to game theory | AGT Ch 1, Hazan Ch 1 | [Lecture2.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_2.pdf)|
-| 3 | 1 / 29 | Hedge, Online convex optimization | Hazan Ch 1, Ch 5.0-5.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
-| 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
-| 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 | [Lecture3-and-4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_3_and_4.pdf)|
-| 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| |
-| 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | |
+| 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture note 1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_1_introduction.pdf) |
+| 2 | 1 / 27 | Introduction to game theory | AGT Ch 1, Hazan Ch 1 | [Lecture note 2.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_2_gt_and_regret.pdf)|
+| 3 | 1 / 29 | Hedge, Online convex optimization | Hazan Ch 1, Ch 5.0-5.4 | [Lecture note 3.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_3_oco_and_sion.pdf)|
+| 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 |  |
+| 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 |  |
+| 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| [Lecture note 4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_4_blackwell_rm_rmp.pdf)|
+| 7 | 2 / 12 | From Regret to Nash |  | |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | | -->
 | 8 | 2 / 17 | EFG regret decomposition, CFR+ | | |
 | 9 | 2 / 19 | Subgame solving, DeepStack | | |
 | 10 | 2 / 24 | Security games | | |
