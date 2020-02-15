@@ -104,7 +104,7 @@ Additionally, we may use some sections of the following books. They are also rec
 | 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 |  |
 | 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 |  |
 | 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| [Lecture note 4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_4_blackwell_rm_rmp.pdf)|
-| 7 | 2 / 12 | From Regret to Nash |  | |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | | -->
+| 7 | 2 / 12 | From Regret to Nash |  | [Lecture note 5.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_5_nash_from_rm.pdf) |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | | -->
 | 8 | 2 / 17 | EFG regret decomposition, CFR+ | | |
 | 9 | 2 / 19 | Subgame solving, DeepStack | | |
 | 10 | 2 / 24 | Security games | | |
