@@ -95,7 +95,7 @@ Additionally, we may use some sections of the following books. They are also rec
 * [ Introduction to Online Convex Optimization (Hazan) ](https://ocobook.cs.princeton.edu/OCObook.pdf) by Hazan (it's free)
 * [ A Modern Introduction to Onlinea Learning (Orabona) ](https://arxiv.org/pdf/1912.13213.pdf) by Orabona (it's free)
 
-### Tentative schedule
+### Schedule
 | #  | <div style="width:45px">Date</div> | Topic | Reading | Lecture notes |
 |---|--------|----------|---|---|
 | 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture note 1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_1_introduction.pdf) |
@@ -104,30 +104,33 @@ Additionally, we may use some sections of the following books. They are also rec
 | 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 |  |
 | 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 |  |
 | 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| [Lecture note 4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_4_blackwell_rm_rmp.pdf)|
-| 7 | 2 / 12 | From Regret to Nash |  | [Lecture note 5.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_5_nash_from_rm.pdf) |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  | AGT Ch 3.7 - 3.11 | | -->
-| 8 | 2 / 17 | EFG regret decomposition, CFR+ | | |
-| 9 | 2 / 19 | Subgame solving, DeepStack | | |
-| 10 | 2 / 24 | Security games | | |
-| 11 | 2 / 26 | Green Security games | | |
-| 12 | 3 / 2 | Introduction to mechanism design | AGT Ch 9 & 10 | |
-| 13 | 3 / 4 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | |
-| 14 | 3 / 9 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | |
-| 15 | 3 / 11 | Market equilibrium abstraction,  Internet ad auctions | | |
-| 16 | 3 / 16  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | |
-| - | 3 / 18 | Spring break |  | | 
-| - | 3 / 23 | Spring break |  | | 
-| 17 | 3 / 25 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | |
-| 18 | 3 / 30 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | |
-| 19 | 4 / 1 |  | | |
-| 20 | 4 / 6 |  | | |
-| 21 | 4 / 8 |  | | |
-| 22 | 4 / 13 |  | | |
-| 23 | 4 / 15 |  | | |
-| 24 | 4 / 20 |  | | |
-| 25 | 4 / 22 |  | | |
-| 26 | 4 / 27 |  | | |
-| 27 | 4 / 29 |  | | |
-| 28 | 5 / 4 |  | | |
+| 7 | 2 / 12 | From Regret to Nash |  | [Lecture note 5.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_5_nash_from_rm.pdf) |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  |  | | -->
+| 8 | 2 / 17 | Extensive-Form Games, DGFs | AGT Ch 3.7 - 3.11 | [Lecture note 6.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_6_extensive_form_games.pdf) |
+| 9 | 2 / 19 | Counterfactual Regret Minimization | | |
+| 10 | 2 / 24 | Subgame solving, deep learning | [BS18](https://arxiv.org/pdf/1705.02955.pdf) Sections 1 and 2 (preferably whole paper), [BSA18](http://www.cs.cmu.edu/~noamb/papers/18-NIPS-Depth.pdf) Section 2 (preferably whole paper), [DeepStack](https://arxiv.org/pdf/1701.01724.pdf) sections "DeepStack" and "Deep Counterfactual Value Networks"| |
+
+<!-- | 9 | 2 / 19 | Subgame solving, DeepStack | | | -->
+<!-- | 10 | 2 / 24 | Security games | | | -->
+<!-- | 11 | 2 / 26 | Green Security games | | | -->
+<!-- | 12 | 3 / 2 | Introduction to mechanism design | AGT Ch 9 & 10 | | -->
+<!-- | 13 | 3 / 4 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | | -->
+<!-- | 14 | 3 / 9 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | | -->
+<!-- | 15 | 3 / 11 | Market equilibrium abstraction,  Internet ad auctions | | | -->
+<!-- | 16 | 3 / 16  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | | -->
+<!-- | - | 3 / 18 | Spring break |  | |  -->
+<!-- | - | 3 / 23 | Spring break |  | |  -->
+<!-- | 17 | 3 / 25 | Allocation of food to food banks | Prendergast. The Allocation of Food to Food Banks. Working paper, 2017. [pdf](https://faculty.chicagobooth.edu/canice.prendergast/research/foodwithmodel.pdf)  | | -->
+<!-- | 18 | 3 / 30 | Spectrum auctions | Cramton. Spectrum Auction Design, 2013. [pdf](http://www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf) Fréchette, Newman, & Leyton-Brown. Solving the Station Repacking Problem. AAAI, 2016. [pdf](http://www.cs.ubc.ca/~kevinlb/pub.php?u=2016-AAAI-SATFC.pdf) | | -->
+<!-- | 19 | 4 / 1 |  | | | -->
+<!-- | 20 | 4 / 6 |  | | | -->
+<!-- | 21 | 4 / 8 |  | | | -->
+<!-- | 22 | 4 / 13 |  | | | -->
+<!-- | 23 | 4 / 15 |  | | | -->
+<!-- | 24 | 4 / 20 |  | | | -->
+<!-- | 25 | 4 / 22 |  | | | -->
+<!-- | 26 | 4 / 27 |  | | | -->
+<!-- | 27 | 4 / 29 |  | | | -->
+<!-- | 28 | 5 / 4 |  | | | -->
 
 
 ### Related Courses
