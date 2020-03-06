@@ -107,7 +107,10 @@ Additionally, we may use some sections of the following books. They are also rec
 | 7 | 2 / 12 | From Regret to Nash |  | [Lecture note 5.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_5_nash_from_rm.pdf) |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  |  | | -->
 | 8 | 2 / 17 | Extensive-Form Games, DGFs | AGT Ch 3.7 - 3.11 | [Lecture note 6.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_6_extensive_form_games.pdf) |
 | 9 | 2 / 19 | Counterfactual Regret Minimization | | |
-| 10 | 2 / 24 | Subgame solving, deep learning | [BS18](https://arxiv.org/pdf/1705.02955.pdf) Sections 1 and 2 (preferably whole paper), [BSA18](http://www.cs.cmu.edu/~noamb/papers/18-NIPS-Depth.pdf) Section 2 (preferably whole paper), [DeepStack](https://arxiv.org/pdf/1701.01724.pdf) sections "DeepStack" and "Deep Counterfactual Value Networks"| |
+| 10 | 2 / 24 | Subgame solving, deep learning | [BS18](https://arxiv.org/pdf/1705.02955.pdf) Sections 1 and 2 (preferably whole paper), [BSA18](http://www.cs.cmu.edu/~noamb/papers/18-NIPS-Depth.pdf) Section 2 (preferably whole paper), [DeepStack](https://arxiv.org/pdf/1701.01724.pdf) sections "DeepStack" and "Deep Counterfactual Value Networks"| [Lecture note 7.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_7_efg_decomposition.pdf) |
+| 11 | 2 / 26 | Stackelberg Equilibrium, Security Games | | [Lecture note 8.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_8_stackelberg_games.pdf)|
+| 12 | 3 / 2 | Stackelberg wrap-up, Intro to Fair Division | HCSC Ch 11 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
+| 13 | 3 / 4 | Eisenberg-Gale convex program | AGT Ch 5 & 6 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
 
 <!-- | 9 | 2 / 19 | Subgame solving, DeepStack | | | -->
 <!-- | 10 | 2 / 24 | Security games | | | -->
