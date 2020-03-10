@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Thresholding and Pruning for Regret Minimization"
 date: 2017-01-01
-publishDate: 2020-01-18T23:50:20.387280Z
+publishDate: 2020-03-10T20:05:34.767848Z
 authors: ["Noam Brown", "Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

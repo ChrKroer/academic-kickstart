@@ -1,7 +1,7 @@
 ---
 title: "Faster algorithms for extensive-form game solving via improved smoothing functions"
-date: 2018-01-01
-publishDate: 2020-01-18T23:50:20.379879Z
+date: 2020-01-01
+publishDate: 2020-03-10T20:05:34.758323Z
 authors: ["Christian Kroer", "Kevin Waugh", "Fatma Kılınç-Karzan", "Tuomas Sandholm"]
 publication_types: ["2"]
 abstract: ""

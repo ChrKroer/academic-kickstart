@@ -1,7 +1,7 @@
 ---
 title: "Multiplicative Pacing Equilibria in Auction Markets"
 date: 2018-01-01
-publishDate: 2020-01-18T23:50:20.382047Z
+publishDate: 2020-03-10T20:05:34.764310Z
 authors: ["Vincent Conitzer", "Christian Kroer", "Eric Sodomka", "Nicolas E. Stier-Moses"]
 publication_types: ["1"]
 abstract: ""

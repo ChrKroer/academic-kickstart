@@ -1,7 +1,7 @@
 ---
 title: "Smoothing Method for Approximate Extensive-Form Perfect Equilibrium"
 date: 2017-01-01
-publishDate: 2020-01-18T23:50:20.386273Z
+publishDate: 2020-03-10T20:05:34.767206Z
 authors: ["Christian Kroer", "Gabriele Farina", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

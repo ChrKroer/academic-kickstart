@@ -1,7 +1,7 @@
 ---
 title: "Power napping with loud neighbors: optimal energy-constrained jamming and anti-jamming"
 date: 2014-01-01
-publishDate: 2020-01-18T23:50:20.395868Z
+publishDate: 2020-03-10T20:05:34.773708Z
 authors: ["Bruce DeBruhl", "Christian Kroer", "Anupam Datta", "Tuomas Sandholm", "Patrick Tague"]
 publication_types: ["1"]
 abstract: ""

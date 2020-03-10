@@ -1,7 +1,7 @@
 ---
 title: "Arbitrage-Free Combinatorial Market Making via Integer Programming"
 date: 2016-01-01
-publishDate: 2020-01-18T23:50:20.389237Z
+publishDate: 2020-03-10T20:05:34.768968Z
 authors: ["Christian Kroer", "Miroslav Dudík", "S\b́astien Lahaie", "Sivaraman Balakrishnan"]
 publication_types: ["1"]
 abstract: ""
