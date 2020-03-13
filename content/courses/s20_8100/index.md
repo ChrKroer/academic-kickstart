@@ -111,6 +111,7 @@ Additionally, we may use some sections of the following books. They are also rec
 | 11 | 2 / 26 | Stackelberg Equilibrium, Security Games | | [Lecture note 8.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_8_stackelberg_games.pdf)|
 | 12 | 3 / 2 | Stackelberg wrap-up, Intro to Fair Division | HCSC Ch 11 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
 | 13 | 3 / 4 | Eisenberg-Gale convex program | AGT Ch 5 & 6 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
+| 14 | 3 / 11 | Dominant-Resource Fairness | | [Lecture note 10.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_10_drf.pdf) |
 
 <!-- | 9 | 2 / 19 | Subgame solving, DeepStack | | | -->
 <!-- | 10 | 2 / 24 | Security games | | | -->
