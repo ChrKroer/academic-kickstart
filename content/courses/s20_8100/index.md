@@ -101,24 +101,37 @@ Additionally, we may use some sections of the following books. They are also rec
 | 1 | 1 / 22 | Introduction | AGT Ch 1 | [Lecture note 1.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_1_introduction.pdf) |
 | 2 | 1 / 27 | Introduction to game theory | AGT Ch 1, Hazan Ch 1 | [Lecture note 2.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_2_gt_and_regret.pdf)|
 | 3 | 1 / 29 | Hedge, Online convex optimization | Hazan Ch 1, Ch 5.0-5.4 | [Lecture note 3.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_3_oco_and_sion.pdf)|
-| 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 |  |
-| 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 |  |
+| 4 | 2 / 3 | Online Mirror Descent | Orabona Ch. 6.0-6.4 | See previous note |
+| 5 | 2 / 5 | OMD convergence, Minimax theorem | Orabona Ch. 6.0-6.4 | See previous note |
 | 6 | 2 / 10 | Blackwell approachability, regret matching  | [Farina blog](http://www.cs.cmu.edu/~gfarina/2016/approachability/)| [Lecture note 4.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_4_blackwell_rm_rmp.pdf)|
 | 7 | 2 / 12 | From Regret to Nash |  | [Lecture note 5.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_5_nash_from_rm.pdf) |<!-- | 7 | 2 / 12 | Extensive-form games, sequence form  |  | | -->
 | 8 | 2 / 17 | Extensive-Form Games, DGFs | AGT Ch 3.7 - 3.11 | [Lecture note 6.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_6_extensive_form_games.pdf) |
-| 9 | 2 / 19 | Counterfactual Regret Minimization | | |
+| 9 | 2 / 19 | Counterfactual Regret Minimization | | See previous note |
 | 10 | 2 / 24 | Subgame solving, deep learning | [BS18](https://arxiv.org/pdf/1705.02955.pdf) Sections 1 and 2 (preferably whole paper), [BSA18](http://www.cs.cmu.edu/~noamb/papers/18-NIPS-Depth.pdf) Section 2 (preferably whole paper), [DeepStack](https://arxiv.org/pdf/1701.01724.pdf) sections "DeepStack" and "Deep Counterfactual Value Networks"| [Lecture note 7.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_7_efg_decomposition.pdf) |
 | 11 | 2 / 26 | Stackelberg Equilibrium, Security Games | | [Lecture note 8.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_8_stackelberg_games.pdf)|
 | 12 | 3 / 2 | Stackelberg wrap-up, Intro to Fair Division | HCSC Ch 11 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
-| 13 | 3 / 4 | Eisenberg-Gale convex program | AGT Ch 5 & 6 | [Lecture note 9.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_9_fair_division.pdf) |
+| 13 | 3 / 4 | Eisenberg-Gale convex program | AGT Ch 5 & 6 | See previous note |
 | 14 | 3 / 11 | Dominant-Resource Fairness | | [Lecture note 10.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_10_drf.pdf) |
+| 15 | 3 / 30 | Intro to Auctions | AGT Ch 9 & 10 | [Lecture note 11.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_11_intro_auctions.pdf) |
+| 16 | 4 / 1 | Auctions with Budgets - Second Price | [Multiplicative Pacing Equilibria in Auction Markets](https://arxiv.org/abs/1706.07151) | [Lecture note 12.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_12_budgets_in_auctions.pdf) |
+| 17 | 4 / 6 | Auctions with Budgets - First Price | [Pacing Equilibrium in First-Price Auction Markets](https://arxiv.org/abs/1811.07166) | [Lecture note 12.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_12_budgets_in_auctions.pdf) |
+| 18 | 4 / 8 | Auctions with Budgets - Dynamics | [Learning in Repeated Auctions](https://ygur.people.stanford.edu/sites/g/files/sbiybj5191/f/learning_in_repeated_auctions_with_budgets_regret_and_equilibrium.pdf) | [Lecture note 13.pdf](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_13_dynamic_auctions.pdf) |
+| 19 | 4 / 13 | Large-Scale Market equilibrium  | | [Lecture note 14](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_14_large_scale_market_equilibrium.pdf)|
+| 20 | 4 / 15 | Large-Scale Market equilibrium | | See previous note |
+| 21 | 4 / 20 | Large-Scale Market equilibrium | | See previous note |
+| 22 | 4 / 22 | Indivisible Goods - Fair Division | For trying fair division: http://www.spliddit.org/ | [Lecture note 15](http://www.columbia.edu/~ck2945/files/s20_8100/lecture_note_15_indivisible_fair_division.pdf) |
+| 23 | 4 / 27 | Indivisible Goods - Fair Division Algorithms |  | See previous note |
+| 24 | 4 / 29 | Indivisible Goods - A-CEEI |  | See previous note |
+| 25 | 5 / 4 | Indivisible Goods - A-CEEI |  | See previous note |
 
-<!-- | 9 | 2 / 19 | Subgame solving, DeepStack | | | -->
-<!-- | 10 | 2 / 24 | Security games | | | -->
-<!-- | 11 | 2 / 26 | Green Security games | | | -->
-<!-- | 12 | 3 / 2 | Introduction to mechanism design | AGT Ch 9 & 10 | | -->
-<!-- | 13 | 3 / 4 | Introduction to mechanism design 2 | AGT Ch 9 & 10 | | -->
-<!-- | 14 | 3 / 9 | Market equilibrium, Eisenberg-Gale convex program | AGT Ch 5-6 | | -->
+<!-- | 20 | 4 / 15 | Large-Scale Market equilibrium - Abstraction | | | -->
+<!-- | 21 | 4 / 20 | Indivisible Fair Division | | | -->
+<!-- | 22 | 4 / 22 | Max Nash Welfare| | | -->
+<!-- | 23 | 4 / 27 | A-CEEI | | | -->
+<!-- | 24 | 4 / 29 | Indivisible Fair Division | | | -->
+<!-- | 25 | 5 / 3 | Course evals, Field overview (topics left out etc), companies that do this stuff, EAO at Columbia, Conferences and Journals, Q\& A, | | | -->
+
+
 <!-- | 15 | 3 / 11 | Market equilibrium abstraction,  Internet ad auctions | | | -->
 <!-- | 16 | 3 / 16  | A-CEEI: Matching students to courses | [A-CEEI paper](http://www.columbia.edu/~ck2945/papers/a-ceei.pdf), [Solving A-CEEI and applying it at Wharton](http://www.columbia.edu/~ck2945/papers/course_match.pdf) | | -->
 <!-- | - | 3 / 18 | Spring break |  | |  -->
