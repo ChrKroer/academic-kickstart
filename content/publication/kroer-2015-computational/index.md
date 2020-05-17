@@ -1,7 +1,7 @@
 ---
 title: "Computational Bundling for Auctions"
 date: 2015-01-01
-publishDate: 2020-03-10T20:05:34.772478Z
+publishDate: 2020-05-16T01:00:50.426281Z
 authors: ["Christian Kroer", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

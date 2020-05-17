@@ -1,7 +1,7 @@
 ---
 title: "Faster First-Order Methods for Extensive-Form Game Solving"
 date: 2015-01-01
-publishDate: 2020-03-10T20:05:34.770430Z
+publishDate: 2020-05-16T01:00:50.423842Z
 authors: ["Christian Kroer", "Kevin Waugh", "Fatma Kılınç-Karzan", "Tuomas Sandholm"]
 publication_types: ["1"]
 abstract: ""

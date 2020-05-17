@@ -1,7 +1,7 @@
 ---
 title: "Robust Market Equilibria with Uncertain Preferences"
 date: 2020-01-01
-publishDate: 2020-03-10T20:05:34.756472Z
+publishDate: 2020-05-16T01:00:50.407885Z
 authors: ["Riley Murray", "Christian Kroer", "Alex Peysakhovich", "Parikshit Shah"]
 publication_types: ["1"]
 abstract: ""
