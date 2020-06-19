@@ -58,11 +58,11 @@ It is a truth universally acknowledged, that a researcher in possession of a goo
 
 ## Computer Science Foundations
 
-* [Algorithm Design](https://www.pearson.com/us/higher-education/program/Kleinberg-Algorithm-Design/PGM319216.html) by Kleinberg and Tardos. Being able to recognize when a problem is NP-hard, and proving it, is an important skill when working on combinatorial problems: even if one does applied research! For example, it tells you when you need to think about integer-programming rather than convex optimization.
+* [Algorithm Design](https://www.pearson.com/us/higher-education/program/Kleinberg-Algorithm-Design/PGM319216.html) by Kleinberg and Tardos. Being able to recognize when a problem is NP-hard, and proving it, is an important skill when working on combinatorial problems; even if one does applied research! For example, it tells you when you need to think about integer-programming rather than convex optimization.
 
 ## Programming Skills
 
-The following pieces of numerical software provide a good foundation that enables most research that I do. It's all based on a python stack. A reasonable alternative is [julia](https://julialang.org/) with the incredible [JuMP](https://www.juliaopt.org/JuMP.jl/stable/) package for mathematical optimization. Just beware that python is more likely to be used in industry etc.
+The following pieces of numerical software provide a good foundation that enables most research that I do. It's all based on a python stack. A reasonable alternative is [julia](https://julialang.org/) with the incredible [JuMP](https://www.juliaopt.org/JuMP.jl/stable/) package for mathematical optimization. Just beware that python is more likely to be used in industry.
 
 * [numpy](https://numpy.org/)  A general familiarity with numpy and scipy is extremely useful for running simulations, testing hypotheses, or implementing algorithms. I recommend installing via the [anaconda](https://www.anaconda.com/download/) distribution.
 
@@ -72,6 +72,6 @@ The following pieces of numerical software provide a good foundation that enable
 
 * [Mosek](https://www.mosek.com/) get a free academic license and install this as a backend to CVXPY. It's the best way to solve certain conic programs, such as those for computing market equilibria.
 
-It's also important to be able to do data analysis/plotting. For those purposes Pandas and seaborn are good python packages. That said, the R tidyverse is incredibly good for data analysis. I find it much more enjoyable to work with than python. If you're willing to divide your time between languages, I recommend:
+It's also important to be able to do data analysis/plotting. For those purposes Pandas and seaborn are good python packages. That said, the R tidyverse is incredibly good for data analysis. I find it much more enjoyable to work with than python. If you're willing to learn two languages, I recommend:
 
 * [R for Data Science](https://r4ds.had.co.nz/) by Grolemund and Wickham. 
